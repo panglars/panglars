@@ -1,8 +1,5 @@
 ### Hi I'm not there 👋
 
-![Metrics](/github-metrics.svg)
-
-
 <!--
 **Fogberry/Fogberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
